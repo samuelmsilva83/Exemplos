@@ -1,0 +1,11 @@
+C:\Users\Samuel\source\repos\SystemPersonal\SystemPersonal.BLL\bin\Debug\SystemPersonal.BLL.dll
+C:\Users\Samuel\source\repos\SystemPersonal\SystemPersonal.BLL\bin\Debug\SystemPersonal.BLL.pdb
+C:\Users\Samuel\source\repos\SystemPersonal\SystemPersonal.BLL\bin\Debug\SystemPersonal.DAL.dll
+C:\Users\Samuel\source\repos\SystemPersonal\SystemPersonal.BLL\bin\Debug\SystemPersonal.Entities.dll
+C:\Users\Samuel\source\repos\SystemPersonal\SystemPersonal.BLL\bin\Debug\SystemPersonal.DAL.pdb
+C:\Users\Samuel\source\repos\SystemPersonal\SystemPersonal.BLL\bin\Debug\SystemPersonal.Entities.pdb
+C:\Users\Samuel\source\repos\SystemPersonal\SystemPersonal.BLL\obj\Debug\SystemPersonal.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\source\repos\SystemPersonal\SystemPersonal.BLL\obj\Debug\SystemPersonal.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\source\repos\SystemPersonal\SystemPersonal.BLL\obj\Debug\SystemPersonal.BLL.dll
+C:\Users\Samuel\source\repos\SystemPersonal\SystemPersonal.BLL\obj\Debug\SystemPersonal.BLL.pdb
+C:\Users\Samuel\source\repos\SystemPersonal\SystemPersonal.BLL\bin\Debug\AjaxControlToolkit.dll

@@ -1,0 +1,15 @@
+/* Modals
+   ========================================================================== */
+@import "_variables.scss";
+@import "_mixins.scss";
+
+
+.modal-title {
+	font-weight: 400;
+	color: $gray-base;
+}
+
+.modal-content {
+	color: $gray-base;
+}
+

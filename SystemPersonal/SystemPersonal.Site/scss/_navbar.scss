@@ -1,0 +1,28 @@
+/* Navbars
+   ========================================================================== */
+@import "_variables.scss";
+@import "_mixins.scss";
+
+.navbar-inverse {
+	 background-color: $gray-dark;
+	 border-color: $gray-light;
+}
+
+.navbar-inverse .navbar-nav {
+  > .active {
+      > a, 
+      > a:hover, 
+      > a:focus {
+		  background-color: $gray-base;
+		  color: $brand-white;
+    }
+  }
+  > .open {
+  	> a,
+	> a:focus,
+	> a:hover {
+		background-color: $gray-base;
+	}
+  }
+}
+

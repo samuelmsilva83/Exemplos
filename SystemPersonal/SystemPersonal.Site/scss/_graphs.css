@@ -1,0 +1,84 @@
+﻿/* Graphs
+   ========================================================================== */
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,700,900);
+/**
+ * Charts
+ */
+.chart-wrapper {
+  margin-bottom: 15px; }
+
+/**
+ * Flot Charts
+ */
+.flot-chart {
+  height: 200px;
+  width: 100%;
+  display: block; }
+
+.float-chart-lg {
+  height: 220px; }
+
+.float-chart-md {
+  height: 180px; }
+
+.flot-chart-content {
+  height: 100%;
+  width: 100%; }
+
+.flot-chart-pie-content {
+  height: 200px;
+  margin: auto;
+  width: 200px; }
+
+/**
+ * Morris Charts
+ */
+.morris-chart {
+  position: relative; }
+
+/**
+ * ChartJs Charts
+ */
+.canvas-chart {
+  position: relative; }
+
+.has-doughnut-legend {
+  margin-right: 80px; }
+
+ul.doughnut-legend {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  position: absolute;
+  top: 30px;
+  right: 28px;
+  font-size: 13px; }
+
+ul.doughnut-legend li span {
+  display: inline-block;
+  height: 10px;
+  width: 10px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;
+  vertical-align: middle;
+  margin: 0 8px 2px 0; }
+
+/**
+ * Sparkline Tooltips Charts
+ */
+.jqstooltip {
+  background-color: rgba(43, 48, 58, 0.8);
+  padding: 3px 5px 5px 5px;
+  min-height: 16px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  border-radius: 3px; }
+
+.jqstooltip {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box; }
+

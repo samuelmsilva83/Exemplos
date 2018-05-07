@@ -1,0 +1,46 @@
+﻿/* Pager pagination
+   ========================================================================== */
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,700,900);
+.pager li > a, .pager li > span {
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  border-radius: 4px; }
+
+.pagination [class^="icon-"], .pagination [class*=" icon-"] {
+  line-height: 1; }
+
+.pagination > li > a,
+.pagination > li > span,
+.pager > li > a,
+.pager > li > span {
+  color: #00b8ce; }
+
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus {
+  z-index: 3;
+  color: #1F2d43;
+  background-color: #eeeeee;
+  border-color: #dddddd; }
+
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus {
+  background-color: #00b8ce;
+  border-color: #00b8ce;
+  color: #FFFFFF;
+  z-index: 5; }
+
+.pager li > a:hover,
+.pager li > a:focus {
+  color: #1F2d43; }
+
+@media screen and (max-width: 629px) {
+  .pagination > li > a, .pager > li > a {
+    margin-bottom: 6px !important; } }
+

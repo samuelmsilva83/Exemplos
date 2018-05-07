@@ -1,0 +1,18 @@
+﻿/* Navbars
+   ========================================================================== */
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,700,900);
+.navbar-inverse {
+  background-color: #1F2d43;
+  border-color: #2B384C; }
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+  background-color: #0f1722;
+  color: #FFFFFF; }
+
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:focus,
+.navbar-inverse .navbar-nav > .open > a:hover {
+  background-color: #0f1722; }
+

@@ -1,0 +1,19 @@
+﻿/* Breadcrumbs
+   ========================================================================== */
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,700,900);
+.breadcrumb {
+  background-color: #2B384C; }
+  .breadcrumb > .active {
+    color: #818A92; }
+
+.breadcrumb-2 {
+  background-color: transparent;
+  padding-left: 0; }
+
+.breadcrumb-3 {
+  border: solid 1px #2B384C;
+  background-color: transparent; }
+
+.breadcrumb i.fa {
+  margin-right: 6px; }
+

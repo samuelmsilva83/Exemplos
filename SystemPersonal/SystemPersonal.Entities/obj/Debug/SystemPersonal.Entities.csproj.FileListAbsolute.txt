@@ -1,0 +1,7 @@
+C:\Users\Samuel\source\repos\SystemPersonal\SystemPersonal.Entities\bin\Debug\SystemPersonal.Entities.dll
+C:\Users\Samuel\source\repos\SystemPersonal\SystemPersonal.Entities\bin\Debug\SystemPersonal.Entities.pdb
+C:\Users\Samuel\source\repos\SystemPersonal\SystemPersonal.Entities\obj\Debug\SystemPersonal.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\source\repos\SystemPersonal\SystemPersonal.Entities\obj\Debug\SystemPersonal.Entities.dll
+C:\Users\Samuel\source\repos\SystemPersonal\SystemPersonal.Entities\obj\Debug\SystemPersonal.Entities.pdb
+C:\Users\Samuel\source\repos\SystemPersonal\SystemPersonal.Entities\obj\Debug\SystemPersonal.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\source\repos\SystemPersonal\SystemPersonal.Entities\bin\Debug\AjaxControlToolkit.dll

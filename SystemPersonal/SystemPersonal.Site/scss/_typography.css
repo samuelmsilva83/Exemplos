@@ -1,0 +1,119 @@
+﻿/* Typography
+   ========================================================================== */
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,700,900);
+a {
+  color: #00b8ce; }
+  a:hover, a:active, a:focus {
+    outline: 0;
+    text-decoration: none; }
+  a:hover, a:focus, a.link {
+    color: #BECEDE; }
+  a.link:hover {
+    color: #BECEDE; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 300;
+  font-family: "Source Sans Pro", sans-serif;
+  margin: 0 0 15px; }
+
+h1 {
+  font-size: 36px; }
+
+h2 {
+  font-size: 24px; }
+
+h3 {
+  font-size: 20px; }
+
+h4 {
+  font-size: 18px;
+  margin-bottom: 12px; }
+
+h5 {
+  font-size: 14px;
+  margin-bottom: 10px; }
+
+h6 {
+  font-size: 12px;
+  margin-bottom: 8px; }
+
+.title {
+  font-weight: 400; }
+
+h3.title {
+  font-size: 18px; }
+
+em {
+  font-style: italic; }
+
+b, strong {
+  font-weight: 600; }
+
+small, .small {
+  font-size: 90%; }
+
+.uppercase {
+  text-transform: uppercase; }
+
+.smaller {
+  font-size: 10px; }
+
+p {
+  margin-bottom: 15px; }
+
+.text-primary {
+  color: #00b8ce; }
+
+a.text-primary:hover,
+a.text-primary:focus {
+  color: #008a9b; }
+
+.text-success {
+  color: #22b66f; }
+
+a.text-success:hover,
+a.text-success:focus {
+  color: #1a8b55; }
+
+.text-info {
+  color: #2196d4; }
+
+a.text-info:hover,
+a.text-info:focus {
+  color: #1a77a8; }
+
+.text-warning {
+  color: #F3C111; }
+
+a.text-warning:hover,
+a.text-warning:focus {
+  color: #c79d0a; }
+
+.text-danger {
+  color: #ef193c; }
+
+a.text-danger:hover,
+a.text-danger:focus {
+  color: #c70e2c; }
+
+.green-color {
+  color: #00bf6c; }
+
+a.green-color:hover,
+a.green-color:focus {
+  color: #008c4f; }
+
+.red-color {
+  color: #FF0000; }
+
+a.red-color:hover,
+a.red-color:focus {
+  color: #cc0000; }
+
+.text-purple {
+  color: #7E57C2; }
+
+a.text-purple:hover,
+a.text-purple:focus {
+  color: #643da9; }
+

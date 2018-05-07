@@ -1,0 +1,41 @@
+﻿/* Base
+   ========================================================================== */
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,700,900);
+.page-container {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  display: table;
+  table-layout: fixed;
+  background-color: #16202F;
+  overflow: hidden; }
+
+.page-container.horizontal-menu {
+  padding-top: 60px; }
+
+.main-container {
+  background-color: #16202F;
+  padding: 0 15px;
+  position: relative;
+  display: table-cell;
+  width: 100%;
+  vertical-align: top; }
+
+.main-header {
+  padding: 10px;
+  border-bottom: solid 1px #2B384C; }
+
+.header-secondary {
+  padding: 20px 10px 10px; }
+
+.main-content {
+  padding: 30px 10px; }
+
+@media screen and (max-width: 767px) {
+  .page-container {
+    display: block;
+    height: auto; }
+  .main-container {
+    display: block;
+    height: auto; } }
+

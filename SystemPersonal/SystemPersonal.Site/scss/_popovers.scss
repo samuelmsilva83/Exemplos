@@ -1,0 +1,13 @@
+/* Popover
+   ========================================================================== */
+@import "_variables.scss";
+@import "_mixins.scss";
+
+.popover-title {
+	font-weight: 600;
+}
+
+.popover {
+	font-family: $font-family-base;
+	color: $gray-base;
+}

@@ -1,0 +1,39 @@
+﻿/* Alerts
+   ========================================================================== */
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600,700,900);
+.alert-success {
+  background-color: #22b66f;
+  border-color: #1ea14c;
+  color: #FFF; }
+  .alert-success hr {
+    border-top-color: #1a8b42; }
+  .alert-success .alert-link {
+    color: #e6e6e6; }
+
+.alert-info {
+  background-color: #2196d4;
+  border-color: #1c9ab5;
+  color: #FFF; }
+  .alert-info hr {
+    border-top-color: #19879f; }
+  .alert-info .alert-link {
+    color: #e6e6e6; }
+
+.alert-warning {
+  background-color: #F3C111;
+  border-color: #df8d0b;
+  color: #FFF; }
+  .alert-warning hr {
+    border-top-color: #c77e0a; }
+  .alert-warning .alert-link {
+    color: #e6e6e6; }
+
+.alert-danger {
+  background-color: #ef193c;
+  border-color: #df1054;
+  color: #FFF; }
+  .alert-danger hr {
+    border-top-color: #c70e4b; }
+  .alert-danger .alert-link {
+    color: #e6e6e6; }
+

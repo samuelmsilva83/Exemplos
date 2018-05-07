@@ -1,0 +1,138 @@
+﻿[
+  {
+    "outputFile": "scss/_accordions.css",
+    "inputFile": "scss/_accordions.scss"
+  },
+  {
+    "outputFile": "scss/_alerts.css",
+    "inputFile": "scss/_alerts.scss"
+  },
+  {
+    "outputFile": "scss/_views.css",
+    "inputFile": "scss/_views.scss"
+  },
+  {
+    "outputFile": "scss/_variables.css",
+    "inputFile": "scss/_variables.scss"
+  },
+  {
+    "outputFile": "scss/_typography.css",
+    "inputFile": "scss/_typography.scss"
+  },
+  {
+    "outputFile": "scss/_modals.css",
+    "inputFile": "scss/_modals.scss"
+  },
+  {
+    "outputFile": "scss/_badges.css",
+    "inputFile": "scss/_badges.scss"
+  },
+  {
+    "outputFile": "scss/_base.css",
+    "inputFile": "scss/_base.scss"
+  },
+  {
+    "outputFile": "scss/_breadcrumbs.css",
+    "inputFile": "scss/_breadcrumbs.scss"
+  },
+  {
+    "outputFile": "scss/_sidebar.css",
+    "inputFile": "scss/_sidebar.scss"
+  },
+  {
+    "outputFile": "scss/_various-screens.css",
+    "inputFile": "scss/_various-screens.scss"
+  },
+  {
+    "outputFile": "scss/_timeline.css",
+    "inputFile": "scss/_timeline.scss"
+  },
+  {
+    "outputFile": "scss/_tables.css",
+    "inputFile": "scss/_tables.scss"
+  },
+  {
+    "outputFile": "scss/_progress-bars.css",
+    "inputFile": "scss/_progress-bars.scss"
+  },
+  {
+    "outputFile": "scss/_popovers.css",
+    "inputFile": "scss/_popovers.scss"
+  },
+  {
+    "outputFile": "scss/_panels.css",
+    "inputFile": "scss/_panels.scss"
+  },
+  {
+    "outputFile": "scss/_pager.css",
+    "inputFile": "scss/_pager.scss"
+  },
+  {
+    "outputFile": "scss/_navs.css",
+    "inputFile": "scss/_navs.scss"
+  },
+  {
+    "outputFile": "scss/_navbar.css",
+    "inputFile": "scss/_navbar.scss"
+  },
+  {
+    "outputFile": "scss/_mixins.css",
+    "inputFile": "scss/_mixins.scss"
+  },
+  {
+    "outputFile": "scss/_mailbox.css",
+    "inputFile": "scss/_mailbox.scss"
+  },
+  {
+    "outputFile": "scss/_labels.css",
+    "inputFile": "scss/_labels.scss"
+  },
+  {
+    "outputFile": "scss/_input-groups.css",
+    "inputFile": "scss/_input-groups.scss"
+  },
+  {
+    "outputFile": "scss/_icons.css",
+    "inputFile": "scss/_icons.scss"
+  },
+  {
+    "outputFile": "scss/_header.css",
+    "inputFile": "scss/_header.scss"
+  },
+  {
+    "outputFile": "scss/_graphs.css",
+    "inputFile": "scss/_graphs.scss"
+  },
+  {
+    "outputFile": "scss/_global.css",
+    "inputFile": "scss/_global.scss"
+  },
+  {
+    "outputFile": "scss/_forms.css",
+    "inputFile": "scss/_forms.scss"
+  },
+  {
+    "outputFile": "scss/_footer.css",
+    "inputFile": "scss/_footer.scss"
+  },
+  {
+    "outputFile": "scss/_filter.css",
+    "inputFile": "scss/_filter.scss"
+  },
+  {
+    "outputFile": "scss/_extra-pages.css",
+    "inputFile": "scss/_extra-pages.scss"
+  },
+  {
+    "outputFile": "scss/_dashboards.css",
+    "inputFile": "scss/_dashboards.scss"
+  },
+  {
+    "outputFile": "scss/_carousel.css",
+    "inputFile": "scss/_carousel.scss"
+  },
+  {
+    "outputFile": "scss/_buttons.css",
+    "inputFile": "scss/_buttons.scss"
+  }
+]
